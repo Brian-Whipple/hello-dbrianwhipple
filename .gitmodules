@@ -1,0 +1,3 @@
+[submodule "Brian-Whipple/hello-microservices"]
+	path = Brian-Whipple/hello-microservices
+	url = https://github.com/Brian-Whipple/hello-microservices
